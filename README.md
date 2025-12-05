@@ -1,0 +1,1 @@
+This repository contains the AMBA APB (Advanced Peripheral Bus) protocol RTL design and verification environment. The project includes an APB slave RTL module along with a complete UVM-based testbench to validate read/write transactions, timing, and protocol compliance.
